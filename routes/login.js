@@ -1,3 +1,5 @@
+//login.js in routes folder
+
 const express = require("express");
 const User = require("../models/User");
 const jwt = require("jsonwebtoken");
